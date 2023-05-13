@@ -1,7 +1,7 @@
 """Parsing the file"""
 
 import json
-import yaml
+import yml
 from pathlib import Path
 
 
